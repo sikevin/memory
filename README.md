@@ -1,2 +1,2 @@
-# memory
-Memory game in React
+# Memory
+Memory game with React
